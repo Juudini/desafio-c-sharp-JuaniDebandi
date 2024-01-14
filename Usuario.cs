@@ -2,14 +2,14 @@
 {
     public class Usuario
     {
-        public string _id;
-        public string _nombre;
-        public string _apellido;
-        public string _nombreUsuario;
-        public string _contrasena;
-        public string _mail;
+        private int _id;
+        private string _nombre;
+        private string _apellido;
+        private string _nombreUsuario;
+        private string _contrasena;
+        private string _mail;
 
-        public Usuario(string id, string nombre, string apellido, string nombreUsuario, string contrasena, string mail)
+        public Usuario(int id, string nombre, string apellido, string nombreUsuario, string contrasena, string mail)
         {
             this._id = id;
             this._nombre = nombre;

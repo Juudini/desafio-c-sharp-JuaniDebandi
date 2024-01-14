@@ -2,14 +2,14 @@
 {
     public class Producto
     {
-        public string _id;
-        public string _descripcion;
-        public int _costo;
-        public int _precioVenta;
-        public int _stock;
-        public string _idUsuario;
+        private int _id;
+        private string _descripcion;
+        private double _costo;
+        private double _precioVenta;
+        private int _stock;
+        private int _idUsuario;
 
-        public Producto(string id, string descripcion, int costo, int precioVenta, int stock, string idUsuario)
+        public Producto(int id, string descripcion, double costo, double precioVenta, int stock, int idUsuario)
         {
             this._id = id;
             this._descripcion = descripcion;

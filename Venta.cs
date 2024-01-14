@@ -2,11 +2,11 @@
 {
     public class Venta
     {
-        public string _id;
-        public string _comentarios;
-        public string _idUsuario;
+        private int _id;
+        private string _comentarios;
+        private int _idUsuario;
 
-        public Venta(string id, string comentarios, string idUsuario)
+        public Venta(int id, string comentarios, int idUsuario)
         {
             this._id = id;
             this._comentarios = comentarios;

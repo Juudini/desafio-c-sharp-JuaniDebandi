@@ -2,12 +2,12 @@
 {
     public class ProductoVendido
     {
-        public string _id;
-        public string _idProducto;
-        public int _stock;
-        public string _idVenta;
+        private int _id;
+        private int _idProducto;
+        private int _stock;
+        private int _idVenta;
 
-        public ProductoVendido(string id, string idProducto, int stock, string idVenta)
+        public ProductoVendido(int id, int idProducto, int stock, int idVenta)
         {
             this._id = id;
             this._idProducto = idProducto;
