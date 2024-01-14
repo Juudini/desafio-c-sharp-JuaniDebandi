@@ -1,0 +1,14 @@
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\bin\Debug\net8.0\DesafioClase6.exe
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\bin\Debug\net8.0\DesafioClase6.deps.json
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\bin\Debug\net8.0\DesafioClase6.runtimeconfig.json
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\bin\Debug\net8.0\DesafioClase6.dll
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\bin\Debug\net8.0\DesafioClase6.pdb
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\DesafioClase6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\DesafioClase6.AssemblyInfoInputs.cache
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\DesafioClase6.AssemblyInfo.cs
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\DesafioClase6.csproj.CoreCompileInputs.cache
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\DesafioClase6.dll
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\refint\DesafioClase6.dll
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\DesafioClase6.pdb
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\DesafioClase6.genruntimeconfig.cache
+C:\Users\Juudini\source\repos\Coderhouse\DesafioClase6\obj\Debug\net8.0\ref\DesafioClase6.dll
